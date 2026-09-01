@@ -5,6 +5,7 @@ predicting whether an individual is "addicted" to screen usage from self-reporte
 digital habits and lifestyle indicators.
 
 **Metric:** ROC AUC
+
 **Best OOF AUC:** 0.9628 (v2) · **Leaderboard score:** 0.96323
 
 ---

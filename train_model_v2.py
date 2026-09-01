@@ -151,4 +151,3 @@ sub = pd.DataFrame({'id': test['id'], 'addicted_label': final_pred})
 sub.to_csv('submission_v2.csv', index=False)
 print(sub.head())
 print("DONE")
-

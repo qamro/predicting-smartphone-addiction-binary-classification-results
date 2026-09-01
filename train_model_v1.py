@@ -61,4 +61,3 @@ print("OOF AUC:", roc_auc_score(y, oof))
 sub = pd.DataFrame({'id': test['id'], 'addicted_label': preds})
 sub.to_csv('submission.csv', index=False)
 print(sub.head())
-
